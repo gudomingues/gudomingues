@@ -1,5 +1,15 @@
 
-## Olá eu sou o Gustavo Domingues, amante de programação e tecnologia!
+<h1 align="center">Eai 👋, me chamo Gustavo Domingues</h1>
+<h3 align="center">Programador Full Stack</h3>
+
+- 🔭 Atuamente Trabalho na [Arbo imoveis](https://www.arboimoveis.com.br/)
+
+- 🌱 Estou aprendendo novos frameworks como **Angular 8+, React Native ...**
+
+- 💬 Hoje tenho 24 anos, gosto muito de aprender, sou curioso a ponto de perder horas atras de algo novo, estudo programação desde 2019 e no mercado desde 2021 como profissional !
+
+</br>
+</br>
 <div align="center">
   <a href="https://github.com/gudomingues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gudomingues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
