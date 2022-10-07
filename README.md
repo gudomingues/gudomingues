@@ -4,7 +4,7 @@
 
 - 🔭 Atuamente Trabalho na [Arbo imoveis](https://www.arboimoveis.com.br/)
 
-- 🌱 Estou aprendendo novos frameworks como **Angular 8+, React Native ...**
+- 🌱 No momento estou estudando  **Angular 8+, React Native ...**
 
 - 💬 Hoje tenho 24 anos, gosto muito de aprender, sou curioso a ponto de perder horas atras de algo novo, estudo programação desde 2019 e no mercado desde 2021 como profissional! 
 
