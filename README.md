@@ -1,12 +1,12 @@
 
 <h1 align="center">Eai 👋, me chamo Gustavo Domingues</h1>
-<h3 align="center">Programador Full Stack</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
 - 🔭 Atuamente Trabalho na [Arbo imoveis](https://www.arboimoveis.com.br/)
 
 - 🌱 No momento estou estudando  **Type Script, React Native ...**
 
-- 💬 Hoje tenho 24 anos, gosto muito de aprender, sou curioso a ponto de perder horas atras de algo novo, estudo programação desde 2019 e no mercado desde 2021 como profissional! 
+- 💬 Hoje tenho 25 anos, gosto muito de aprender, sou curioso a ponto de perder horas atras de algo novo, estudo programação desde 2019 e no mercado desde 2021 como profissional! 
 
 - 👨‍💻 O que faço ? no momento atuo fazendo code reviews e criando novas features para o mercado imobiliário.
 
