@@ -2,7 +2,7 @@
 <h1 align="center">Eai 👋, me chamo Gustavo Domingues</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
-- 🔭 Atuamente Trabalho na [Arbo imoveis](https://www.arboimoveis.com.br/)
+- 🔭 Atuamente Trabalho na [SuperLógica](https://superlogica.com/)
 
 - 🌱 No momento estou estudando  **Type Script, React Native ...**
 
