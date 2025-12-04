@@ -4,9 +4,9 @@
 
 - 🔭 Atuamente Trabalho na [SuperLógica](https://superlogica.com/)
 
-- 🌱 No momento estou estudando  **Type Script, React Native ...**
+- 🌱 No momento estou estudando  **Inglês ...**
 
-- 💬 Hoje tenho 26 anos, gosto muito de aprender, sou curioso a ponto de perder horas atras de algo novo, estudo programação desde 2019 e no mercado desde 2021 como profissional! 
+- 💬 Hoje tenho 27 anos, gosto muito de aprender, sou curioso a ponto de perder horas atras de algo novo, estudo programação desde 2019 e no mercado desde 2021 como profissional! 
 
 - 👨‍💻 O que faço ? no momento atuo fazendo code reviews e criando novas features para o mercado imobiliário.
 
