@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 💼 Currently working at **Superlógica**
-- 🧠 4+ years of experience in **JavaScript ecosystem**
+- 🧠 5+ years of experience in **JavaScript ecosystem**
 - 🤖 Focused on **AI integrations, automation & scalable systems**
 - 🏗️ Strong background in **software architecture & legacy modernization**
 - 🌱 Currently improving my **English skills**
