@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Gustavo Domingues</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   Building scalable products, AI-driven solutions and clean architectures 🚀
